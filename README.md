@@ -136,6 +136,5 @@ The docker agent configuration is now successful.
 
 
 
-# Jenkinspipeline
-project files
+
 
